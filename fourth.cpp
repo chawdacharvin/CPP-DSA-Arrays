@@ -1,6 +1,4 @@
 #include<iostream>
-
-
 int main(){
       int a;
       std::cout <<  "Please enter any number\n";
