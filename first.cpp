@@ -6,6 +6,8 @@ using namespace std;/*or we can write
   int main(){
       cout << "Namaste bhaio aur behno" << endl;
       cout << "Namaste bhaio aur behno\n";
+   int value;
+   cin>>value;
       std::cout << "Namaste Bhaio aur Behno with std";
 
       
